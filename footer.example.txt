@@ -1,0 +1,3 @@
+🌿 DailyBot — Mindful Automation
+Discipline | Focus | Motivation
+🚀 Built with Node.js & Twitter API
